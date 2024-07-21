@@ -24,3 +24,5 @@ Code: As per the requirements
 ● Testable: It can be tested at the code level.
 ● Maintainable: It can be maintained, even as your codebase grows.
 ● Portable: It works the same in every environment (operating system)
+
+![Capture](https://github.com/user-attachments/assets/68cd9653-7f7a-4e68-9ac4-ea0856f8570e)
